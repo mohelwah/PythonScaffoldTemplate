@@ -4,5 +4,6 @@ this is scaffold template for python
  - Makefile
  - requirement.txt
  - virtial enviroment: python -m venv ~/.scaffold
+ - activate venv envi: source ~/.scaffold/bin/activate
  - hello.py file
  - test_hello.py file 
