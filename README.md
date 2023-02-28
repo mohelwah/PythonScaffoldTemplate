@@ -1,4 +1,5 @@
-# PythonScaffoldTemplate
+# Project Type: Project Template
+# Project Name : Template
 this is scaffold template for python 
  Create the following:
  - Makefile
