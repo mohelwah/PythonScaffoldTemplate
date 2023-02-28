@@ -22,5 +22,5 @@ this is scaffold template for python
 
 ## run jupyter notebook
   - jupyter noteboke: - install ipykernel
-        run command: - ipython kernel install --user --name=scrape
+  - run command: - ipython kernel install --user --name=scrape
        
