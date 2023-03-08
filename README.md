@@ -20,7 +20,7 @@ this is scaffold template for python
  - chanage bash to run venv :
     - vim ~/.bashrc
     - shift G to button, 
-    - # Setup Virtual Env
+    -# Setup Virtual Env
     - source ~/.MLOps/bin/activate
 
 ## run jupyter notebook
