@@ -15,10 +15,13 @@ this is scaffold template for python
  - to check the python version:
     - in linux : which python  
     - in windows: Get-Command python | fl *
- - get pack list:
-    - pip freeze or pip list 
-    test
-
+ - get pack version:
+    - pip freeze | grep packName 
+ - chanage bash to run venv :
+    - vim ~/.bashrc
+    - shift G to button, 
+    - # Setup Virtual Env
+    - source ~/.MLOps/bin/activate
 
 ## run jupyter notebook
   - jupyter noteboke: - install ipykernel
